@@ -8,13 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-bcd a 7 segmentos
+The system takes 4 binary inputs (W, X, Y, Z) and processes them through logic gates to drive a 7-segment display, representing digits from 0 to 9.
 
 ## How to test
+​Change the input states by toggling the switches and verify that the corresponding numbers from 0 to 9 appear on the display.
 
-bcd a 7 segmentos
 
 ## External hardware
-
-bcd a 7 segmentos
+​Building the physical circuit requires a 7-segment display, 4 input switches, resistors, and a power supply.
